@@ -20,7 +20,7 @@
   - `SSH` **-** `SHA256:knInZXCtf3jbMBjO4jCYb5VPJ+oXnpMKyrMA/O86biI`
 
 **:paw_prints: Get in touch with me?**
-- :bird: Twitter **-** [`@chirpcel`](https://twitter.com/chirpcel)
+- :elephant: Mastodon **-** [`@chirpcel`](https://ruhr.social/@chirpcel)
 - :office: LinkedIn **-** [`Marcel Kersten`](https://linkedin.com/in/mkersten)
 - :envelope: Mail **-** [`hi@mkersten.net`](mailto:hi@mkersten.net)
 
