@@ -13,7 +13,7 @@
 - :upside_down_face: Would enjoy being one of my cats for a day
 
 **:computer: My tech profile**
-- :star: Rust | Web | Go | Java
+- :star: Rust | Web | Java
 - :bulb: Infosec | Container | UX
 - :lock_with_ink_pen: Commit signing:
   - `SSH` **-** `SHA256:mFIBqcx8Q1HHhyAqQNJsSESvSY31vLdQEFXJo6zpVss`
