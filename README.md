@@ -4,8 +4,8 @@
 
 ---
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skuncel&theme=dark&show_icons=true&hide_border=true&icon_color=FFFFFF&bg_color=22272E">](https://github.com/skuncel#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skuncel&theme=graywhite&show_icons=true&hide_border=true">](https://github.com/skuncel#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chirpcel&theme=dark&show_icons=true&hide_border=true&icon_color=FFFFFF&bg_color=22272E">](https://github.com/chirpcel#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chirpcel&theme=graywhite&show_icons=true&hide_border=true">](https://github.com/chirpcel#gh-light-mode-only)
 
 **:cat: That's me**
 - :round_pushpin: Living in Germany
