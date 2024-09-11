@@ -1,4 +1,4 @@
-# Hello there :wave:, skuncel here!
+# Hello there :wave:, chirpcel here!
 
 **I'm Marcel - a developer, part of a cat family and dreaming of a trip to Mos Eisley :full_moon_with_face:**
 
