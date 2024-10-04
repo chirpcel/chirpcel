@@ -24,7 +24,7 @@ index_format = "elasticlunr_json"
 
 [extra]
 emoji_favicon = "🐱"
-accent_color = "#FFD866"
+accent_color = "#AB9DF2"
 accent_color_dark = "#FFD866"
 source_url = "https://github.com/chirpcel"
 
