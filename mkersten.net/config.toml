@@ -33,6 +33,9 @@ show_feed = true
 show_theme_switcher = true
 show_repo = true
 links = [
+    { name = "Projects", menu = [
+		{ url = "@/projects/ddns6-worker.md", name = "ddns6-worker" }
+	] },
     { url = "@/blog/_index.md", name = "Blog" }
 ]
 
