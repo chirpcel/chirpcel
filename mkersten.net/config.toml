@@ -27,6 +27,7 @@ emoji_favicon = "🐱"
 accent_color = "#19160A"
 accent_color_dark = "#FFD866"
 source_url = "https://github.com/chirpcel"
+styles = ["mods.css"]
 
 [extra.nav]
 show_feed = true
