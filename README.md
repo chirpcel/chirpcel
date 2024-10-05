@@ -17,7 +17,7 @@
   - `SSH` **-** `SHA256:knInZXCtf3jbMBjO4jCYb5VPJ+oXnpMKyrMA/O86biI`
 
 **🐾 Get in touch with me?**
-- 🐘 Mastodon **-** [`@chirpcel`](https://ruhr.social/@chirpcel)
+- 🐘 Mastodon **-** <a rel="me" href="https://ruhr.social/@chirpcel">`@chirpcel`</a>
 - 🏢 LinkedIn **-** [`Marcel Kersten`](https://linkedin.com/in/mkersten)
 - ✉️ Mail **-** [`hi@mkersten.net`](mailto:hi@mkersten.net)
 
