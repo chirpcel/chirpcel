@@ -1,6 +1,6 @@
 ## Hello there 👋, Marcel aka `chirpcel` here!
 
-**I'm Marcel - a developer, part of a cat family and dreaming of a trip to Mos Eisley 🌝**
+**A developer, part of a cat family and dreaming of a trip to Mos Eisley 🌝**
 
 ---
 
