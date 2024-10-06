@@ -11,11 +11,7 @@ taxonomies = [{ name = "tags", feed = true }]
 
 [markdown]
 highlight_code = true
-highlight_theme = "css"
-highlight_themes_css = [
-	{ theme = "solarized-dark", filename = "syntax-theme-dark.css" },
-	{ theme = "solarized-light", filename = "syntax-theme-light.css" },
-]
+highlight_theme = "monokai"
 smart_punctuation = true
 bottom_footnotes = true
 
@@ -29,6 +25,7 @@ accent_color_dark = "#FFD866"
 default_theme = "dark"
 source_url = "https://github.com/chirpcel"
 styles = ["mods.css"]
+show_copy_button = true
 
 [extra.nav]
 show_feed = true
