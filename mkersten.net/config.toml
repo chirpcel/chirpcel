@@ -36,7 +36,7 @@ links = [
 		{ url = "@/projects/ddns6-worker.md", name = "ddns6-worker" },
 		{ url = "@/projects/ssh-sign.md", name = "ssh-sign" }
 	] },
-    { url = "@/blog/_index.md", name = "Blog" }
+    { url = "@/blog/_index.md", name = "Chirps" }
 ]
 
 [extra.footer]
