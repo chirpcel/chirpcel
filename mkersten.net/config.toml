@@ -33,6 +33,7 @@ show_theme_switcher = false
 show_repo = true
 links = [
     { name = "Projects", menu = [
+		{ url = "@/projects/dotfiles.md", name = "~/.dotfiles" },
 		{ url = "@/projects/ddns6-worker.md", name = "ddns6-worker" },
 		{ url = "@/projects/ssh-sign.md", name = "ssh-sign" }
 	] },
